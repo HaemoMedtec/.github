@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're Haemo Medtec ApS. Our goal is to expand the pre-analytical limits using never before seen technologies!
+We're HaemoMedtec ApS. Our goal is to expand the pre-analytical limits using never before seen technologies!
 
 <!--
 
